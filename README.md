@@ -1,0 +1,1 @@
+This project is a Python based batch reactor concentration calculator that calculates reactant concentration over time for first, second, and third-order reactions. It uses reaction engineering equations alongside Python functions, loops and lists to generate and store concentration data.
